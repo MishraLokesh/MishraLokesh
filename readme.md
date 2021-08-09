@@ -1,10 +1,14 @@
 <p align = 'center'></p>
-<h2 align='center'>Hey there🙋🏻‍♂️, I am Lokesh ✌🏻 </h2>
-<p align='center'><h3 align='center'>A detailed-oriented, responsible, and highly committed undergrad. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br></h3>
-	 <ul><strong>
+<h2 align='center'>Hey there🙋🏻‍♂️, I am <b>LOKESH</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=An+autodidact+CS+Undergrad;A+passionate+multipotentialite;End+to+End+Ethereum+based+Dapp+Developer;Front-end+Web+Developer;Desktop+Developer;Blockchain%20|%20AI%20|%20ML%20Enthusiast;&center=true&width=500&height=50"></a>
+</p>
+<p align='center'><h3 align='center'>A detailed-oriented, responsible, and highly committed undergrad. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br></h3><br><hr/>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MishraLokesh/MishraLokesh/master/code.gif?token=AOU7BCKHQQ6JM4PSTRXNNU3BDI6F2" width="500" height="300"/>
+	<ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on etherum based Dapps</li>
-	<li><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300"/></li>
-	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://github.com/MishraLokesh/Health_Hub">Health_Hub</a> Currently Working on: Inventory Management </li>
+	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://github.com/MishraLokesh/Health_Hub">Health_Hub</a> Currently Working on: <a href="https://github.com/MishraLokesh/INVENTORY">Inventory Management<a></a> </li>
 	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently learning DSA, </a>.</li>
 	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=20 width=20> I’m working my way through LeetCode grind and Contributing to Open Source 👨🏻‍💻.</li>
 	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=20 width=20> I’m looking for help with integrating ML with Dapps 🚀.</li>
@@ -13,7 +17,7 @@
 	</li>
   <li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=20 width=20> Pronouns: Loki :)</li>
 	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=20 width=20> Fun fact: <em>I'm a programmer, not a coder.</em></li>
-</strong></ul>
+</strong></ul><br>
 
 
 <!-- <h3> Recent Activity </h3> -->
@@ -32,6 +36,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Socket programming in Python](https://medium.com/ieee-ras-vit/socket-programming-in-python-e61f857bc65f)
 <!-- BLOG-POST-LIST:END -->
+<br>
 
 <h3 align="left">🛠 & 💻 Tools and Technologies:</h3>
 <h4>Currently working with</h4>
@@ -39,6 +44,7 @@
 
 <h4>Would like to work with</h4>
 <p> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
 ### Some Stats
 
@@ -87,7 +93,7 @@
 		</a>
 	</table>
 </details>
-
+<br>
 
 <h3 align='center'>Connect with me  📫 </h3>
 <p align = 'center'>
