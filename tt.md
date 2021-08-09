@@ -47,11 +47,11 @@
 	</tr>
 	<tr>
 		<td>					
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=MishraLokesh&custom_title=My%20Weekly%20Stats&layout=compact&theme=radical" alt="Wakatime Stats
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=MishraLokesh&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats
 " alt="Wakatime Stats" />
 		</td>
 		<td>
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraLokesh&layout=compact&theme=radical" alt="Top Langs" />
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraLokesh&layout=compact&theme=tokyonight" alt="Top Langs" />
 		</td>
 	</tr>
 	</a>
@@ -64,22 +64,22 @@
 		<a align="center" href="https://github.com/MishraLokesh">
 		<tr>
 			<td>					
-				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MishraLokesh&show_icons=true&hide_border=false&theme=radical&count_private=true&include_all_commits=false" alt="Git Stats" />
+				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MishraLokesh&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="Git Stats" />
 			</td>
 			<td>
-				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=MishraLokesh&theme=radical" alt="Lokesh Mishra's GitHub Streak" />
+				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=MishraLokesh&theme=tokyonight" alt="Lokesh Mishra's GitHub Streak" />
 			</td>
 		</tr>
 	</table>
 	<table>
 		<tr>
 			<td>
-				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=MishraLokesh&theme=redical" alt="Daily Contribution Graph" />
+				<img width="100%" height="auto" src="https://activity-graph.herokuapp.com/graph?username=MishraLokesh&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true" alt="Daily Contribution Graph" />
 			</td>
 		</tr>
 		<tr colspan="2">
 			<td>
-				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishraLokesh&theme=dracula"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishraLokesh&theme=github_dark"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 			</td>
 		</tr>
 		</a>
@@ -98,4 +98,3 @@
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MishraLokesh.MishraLokesh" alt="visitor badge"/>
 </p>
-
