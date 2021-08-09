@@ -1,5 +1,5 @@
 <p align = 'center'></p>
-<h2 align='center'>Hey there🙋🏻‍♂️, I am <b>LOKESH</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2 align='center'>Hii 🙋🏻‍♂️, I am <b>LOKESH</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=An+autodidact+CS+Undergrad;A+passionate+multipotentialite;End+to+End+Ethereum+based+Dapp+Developer;Front-end+Web+Developer;Desktop+Developer;Blockchain%20|%20AI%20|%20ML%20Enthusiast;&center=true&width=500&height=50"></a>
 </p>
