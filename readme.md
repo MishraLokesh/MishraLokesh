@@ -15,6 +15,7 @@
 	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=20 width=20> Fun fact: <em>I'm a programmer, not a coder.</em></li>
 </strong></ul>
 
+
 <!-- <h3> Recent Activity </h3> -->
 <!-- START_SECTION:activity-->
 
