@@ -67,7 +67,7 @@
 				<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MishraLokesh&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=false" alt="Git Stats" />
 			</td>
 			<td>
-				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=MishraLokesh&theme=tokyonight" alt="Dev Sharma's GitHub Streak" />
+				<img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=MishraLokesh&theme=tokyonight" alt="Lokesh Mishra's GitHub Streak" />
 			</td>
 		</tr>
 	</table>
@@ -79,7 +79,7 @@
 		</tr>
 		<tr colspan="2">
 			<td>
-				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishraLokesh&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+				<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishraLokesh&theme=github_dark"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
 			</td>
 		</tr>
 		</a>
