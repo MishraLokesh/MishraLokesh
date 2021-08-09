@@ -2,14 +2,15 @@
 <h2 align='center'>Hey there🙋🏻‍♂️, I am Lokesh ✌🏻 </h2>
 <p align='center'><h3 align='center'>A detailed-oriented, responsible, and highly committed undergrad. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br></h3>
 	 <ul><strong>
-	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Dapps. I'm learning DSA.</li>
-	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://github.com/MishraLokesh/Health_Hub">Health_Hub</a> Currently Working on: JavaFX  </li>
+	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Dapps and learning .</li>
+	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://github.com/MishraLokesh/Health_Hub">Health_Hub</a> Currently Working on: Inventory Management </li>
 	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently learning DSA, </a>.</li>
 	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=20 width=20> I’m working my way through LeetCode grind and Contributing to Open Source 👨🏻‍💻.</li>
 	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=20 width=20> I’m looking for help with integrating ML with Dapps 🚀.</li>
 	<li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=20 width=20> 
 	<a href="https://www.linkedin.com/in/lokesh-mishra-0807/">Ask me </a>about Blockchain Development 🕸.
 	</li>
+  <li><img src="https://media2.giphy.com/media/xUA7aSyzpTqW0VQv8A/giphy.gif" height=20 width=20> Pronouns: Loki :)</li>
 	<li><img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" height=20 width=20> Fun fact: <em>I'm a programmer, not a coder.</em></li>
 </strong></ul>
 
@@ -46,7 +47,8 @@
 	</tr>
 	<tr>
 		<td>					
-			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats" />
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=MishraLokesh&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="Wakatime Stats
+" alt="Wakatime Stats" />
 		</td>
 		<td>
 			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishraLokesh&layout=compact&theme=tokyonight" alt="Top Langs" />
@@ -54,6 +56,7 @@
 	</tr>
 	</a>
 </table>
+
 
 <details>
 	<summary><strong> 🌟 GitHub Stats </strong></summary>
