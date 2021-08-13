@@ -5,6 +5,7 @@
 </p>
 <p align='center'><h3 align='center'>A detailed-oriented, responsible, and highly committed undergrad. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<br></h3><br><hr/>
 
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/MishraLokesh/MishraLokesh/master/code.gif?token=AOU7BCKHQQ6JM4PSTRXNNU3BDI6F2" width="400" height="250"/>
 	<ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on etherum based Dapps</li>
