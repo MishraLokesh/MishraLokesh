@@ -11,8 +11,8 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="250"/>
 	<ul><strong>
-	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on etherum based Dapps</li>
-	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://github.com/MishraLokesh/Health_Hub">Health_Hub</a> Currently Working on: <a href="https://github.com/MishraLokesh/INVENTORY">Inventory Management<a></a> </li>
+	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on MERN stack development and Etherum based Dapps</li>
+	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Last Project: <a href="https://github.com/MishraLokesh/Health_Hub">Health_Hub</a> Currently Working on: <a href="https://github.com/MishraLokesh/mern_memories">Mern Memories<a></a> </li>
 	<li><img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently learning DSA, </a>.</li>
 	<li><img src="https://fionta.com/wp-content/uploads/FiveFastFacts_2.gif" height=20 width=20> I’m working my way through LeetCode grind and Contributing to Open Source 👨🏻‍💻.</li>
 	<li><img src="https://media.tenor.com/images/8635ae03c9ffa0eb2373118624058afc/tenor.gif" height=20 width=20> I’m looking for help with integrating ML with Dapps 🚀.</li>
